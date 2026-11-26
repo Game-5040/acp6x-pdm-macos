@@ -1,0 +1,10 @@
+build/
+*.kext/
+*.driver/
+*.o
+*.dSYM/
+.DS_Store
+tools/acpcap/acpcap
+tools/mic-level/mic-hal
+tools/mic-level/mic-level
+tools/who-mic
