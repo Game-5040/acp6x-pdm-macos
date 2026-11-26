@@ -1,5 +1,7 @@
 # ACP6x PDM Microphone for macOS
 
+**English** | [简体中文](README.zh-CN.md)
+
 A microphone driver for the **AMD ACP6x / ACP6.3 PDM (digital MEMS) microphone array** found in
 Ryzen laptops, written from scratch for macOS 15/26 (Hackintosh or otherwise). It consists of a small
 PCI kext that programs the ACP DMA engine, and an input-only userspace HAL plugin that makes the
